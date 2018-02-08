@@ -1,0 +1,349 @@
+img#main{
+	
+	height:10em;
+    position:relative;
+	left: 368px;
+	width:40%;
+	
+	
+	
+}
+h1#welcome{
+	
+	text-align:center;
+}
+.left-col p{
+	
+	margin: -2% 1% 1% 1%;
+	width:37%;
+	float:left;
+	
+}
+
+
+
+div#study{
+	
+	color:#878E63;
+	position:relative;
+	bottom:50px;
+}
+
+img#campus{
+	
+	float:right;
+	
+	width:25em;
+	padding-bottom:1em;
+
+    
+}
+
+img#banner{
+	
+	height:14em;
+	width:100%;
+	border-top: 1px solid #878E63;
+	border-bottom: 1px solid #878E63;
+}
+
+.section img{
+	float:left;
+	margin: 2% 2%;
+	
+	
+	max-width:100%;
+	height:290px;
+	width:100px;
+	
+	
+	 width:25em;
+	padding-bottom:1em;
+}
+
+
+.icons img{
+	
+	overflow:hidden;
+	width:2em;
+	float:left;
+	padding-left:20px;
+	margin-top:10px;
+	margin-bottom:5px;
+	
+}
+
+.icons li{
+	
+	display:inline;
+	
+}
+
+
+.dmufooter img{
+	overflow:hidden;
+	width:18em;
+	float:right;
+	position:relative;
+	bottom:240px;
+	left:30px;
+	
+	
+	
+
+}
+
+p#work{
+	
+	margin-top:10px;
+}
+
+.information p{
+	
+	
+	padding:0%;
+	margin-left:10px;
+}
+
+
+
+body{
+	
+	background:#F1F0D1;
+	font-family:Verdana, Tahama, Arial, sans-serif; 
+	font-size: 18px;
+	overflow:auto;
+	
+}
+
+h1, h2, h3 {
+	
+	padding-left: 5%;
+	color: #878E63;
+	
+}
+
+p {
+	
+	padding:2%;
+	color:#878E63;
+}
+
+.section{
+	width:29%;
+	float:left;
+	margin: 2% 2%;
+	
+}
+
+.clearfix{
+	
+	clear:both;
+}
+
+#wrapper{
+	
+	margin:0 auto;
+	max-width: 1020%;
+	width: 98%;
+	background:#FEFBE8;
+	border: 2px solid #878E63;
+	
+}
+
+div#callout{
+	
+	width:100%;
+	height:auto;
+	background:#878E63;
+	overflow:hidden;
+}
+div#callout p{
+	
+	text-align:right;
+	color:#F1F0D1;
+	font-size: 13px;
+	text-decoration:none;
+}
+
+div#callout p a{
+	
+	
+	color:#F1F0D1;
+	
+	text-decoration:none;
+}
+
+
+
+nav ul{
+	
+	list-style:none;
+	padding-left: 50px;
+	
+}
+
+nav ul li{
+	float:left;
+	border: 1px solid #878E63;
+	width:13.5%;
+	margin-bottom:0.8%;
+	
+
+}
+
+nav ul li a{
+	
+	background: #F1F0D1;
+	display: block;
+	padding:5% 12%;
+	font-weight:bold;
+	font-size: 16px;
+	color:#878E63;
+	text-decoration:none;
+	text-align: center;
+	
+
+	
+}
+
+nav ul li a:hover{
+	background-color:#878E63;
+	color:#F1F0D1;
+	
+}
+
+.top {
+	position:relative;
+	top:10px;
+	left:150px;
+	text-decoration:none;
+	color:#878E63;
+	font-weight:bold;
+	font-size:21px;
+}
+
+h2#about{
+	
+	position:relative;
+	right:18px;
+	top:6px;
+	
+
+}
+
+footer{
+	
+	background: #878E63;
+	width: 100%;
+	overflow:hidden;
+	position:relative;
+	height:220px;
+}
+
+footer p{
+	color:#F1F0D1;
+}
+
+footer p a{
+	color:#F1F0D1;
+	text-decoration:none;
+}
+
+/*--------------------------------------------------------- ENTRY REQUIRMENTS CSS --------------------------------------------------------------------------------*/
+
+.left-col1 p{
+	
+	
+	width:80%;
+	float:left;
+	margin: -2% 20% 1% 1%;
+	text-indent: 1px;
+	
+}
+
+h1#welcome1{
+	text-align:center;
+	padding-top:5%;
+	
+}
+.left p{
+	margin-right:20%;
+	position:relative;
+	bottom:28px;
+}
+
+
+.space li{
+	padding-bottom:3%;
+	color:#878E63;
+	width:80%;
+
+}
+
+.top1{
+	
+	position:relative;
+	top:-8px;
+	left:1020px;
+	text-decoration:none;
+	color:#878E63;
+	font-weight:bold;
+	font-size:21px;
+}
+/*--------------------------------------------------------- Teaching And Assesment CSS --------------------------------------------------------------------------------*/
+.study2{
+	
+	width:90%;
+}
+.image3{
+	width:26em;
+	margin-left:2%;
+	height:17em;
+}
+
+/*--------------------------------------------------------- Fees And Funding CSS --------------------------------------------------------------------------------*/
+
+table, th, td {
+    border: 1px solid #06000a;
+    border-collapse: collapse;
+	background-color: #f1f1c1;
+	width:75%;
+	color:#878E63;
+	margin-left:1%;
+	margin-bottom:1%
+}
+th, td {
+    padding: 17px;
+}
+
+th {
+    text-align: left;
+	
+}
+/*--------------------------------------------------------- Careers CSS --------------------------------------------------------------------------------*/
+.study3{
+	
+	width:55%;
+	font-size:120%;
+	
+	
+}
+
+img#comp1{
+	
+	position:relative;
+	left:770px;
+	bottom:470px;
+	width:515px;
+	height:390px;
+	
+}
+
+div#formcontent{
+	
+	margin-left:60px;
+	font-size:125%;
+	color:#878E63;
+	
+}
